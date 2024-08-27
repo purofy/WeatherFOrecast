@@ -1,0 +1,35 @@
+[
+    {
+        "id":1,
+        "name": "Copenhagen",
+        "location": {
+            "lat": 55.6761,
+            "lon": 12.5683
+        }
+    },
+    {
+        "id": 2,
+        "name": "Berlin",
+        "location": {
+            "lat": 52.52,
+            "lon": 13.405
+        }
+    },
+    {
+        "id":3,
+
+        "name": "Paris",
+        "location": {
+            "lat": 48.8566,
+            "lon": 2.3522
+        }
+    },
+    {
+        "id":4,
+        "name": "London",
+        "location": {
+            "lat": 51.5074,
+            "lon": -0.1278
+        }
+    }
+]
